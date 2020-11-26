@@ -6,7 +6,7 @@ In these hands-on lessons of the course, you will learn how to work with custome
 
 The dataset that we will be looking at in this course is the dataset containing information about the transactional data of customers. Such kind of datasets are very helpful in giving us an idea about how the customer can be identified better. We will be learning to work with transactional datasets for analyzing and understanding your customers better using various statistical and graphical methods in data science.
 
-**Note:** This is a preview lesson from the course 'Customer Analytics for Business - Complete Crash Course'. Students can enroll in the full course by clicking here: [Enroll in 'Customer Analytics for Business - Complete Crash Course' course](https://www.udemy.com/course/customer-analytics-for-businesses-complete-crash-course/?referralCode=B6161B3BFFD06DBBAE86).
+**Note:** This is a preview lesson from the course 'Customer Analytics for Businesses - Complete Crash Course'. Students can enroll in the full course by clicking here: [Enroll in 'Customer Analytics for Business - Complete Crash Course' course](https://www.udemy.com/course/customer-analytics-for-businesses-complete-crash-course/?referralCode=B6161B3BFFD06DBBAE86).
 
 ## Data Dictionary
 
