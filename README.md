@@ -4,9 +4,7 @@ In these hands-on lessons of the course, you will learn how to work with custome
 
 ![Customer Analytics for Businesses](https://drive.google.com/uc?export=view&id=1MWeKL_JTevgUKEYz9logfYm7WkQBMYXH)
 
-The dataset that we will be looking at in this course is the dataset containing information about the transactional data of customers. Such kind of datasets are very helpful in giving us an idea about how the customer can be identified better.
-
-We will be learning to analyze transactional datasets for analyzing and understanding your customers better. We’ll also learn how to make better decisions as a business by profiling and segmenting our customers using a programmatic approach.
+The dataset that we will be looking at in this course is the dataset containing information about the transactional data of customers. Such kind of datasets are very helpful in giving us an idea about how the customer can be identified better. We will be learning to analyze transactional datasets for analyzing and understanding your customers better using various statistical and graphical methods.
 
 **Note:** This is a preview lesson from the course 'Customer Analytics for Business - Complete Crash Course'. Students can enroll in the full course by clicking here: [Enroll in 'Customer Analytics for Business - Complete Crash Course' course](https://www.udemy.com/course/customer-analytics-for-businesses-complete-crash-course/?referralCode=B6161B3BFFD06DBBAE86).
 
